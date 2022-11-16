@@ -65,12 +65,8 @@
                 </div>
             </li>
 
-
-
-            <!-- Heading -->
-            <div class="sidebar-heading">
-                보고서
-            </div>
+            <!-- Divider -->
+            <hr class="sidebar-divider">
 
             <!-- Nav Item - Pages Collapse Menu -->
             <li class="nav-item">
@@ -87,6 +83,9 @@
                 </div>
 			</li>
 
+            
+            <!-- Divider -->
+            <hr class="sidebar-divider">
             <!-- Nav Item - Charts -->
             <li class="nav-item">
                 <a class="nav-link" href="#">
@@ -101,6 +100,14 @@
                     <span>Tables</span></a>
             </li> -->
 
+            <!-- Divider -->
+            <hr class="sidebar-divider">
+            
+            <li class="nav-item">
+                <a class="nav-link" href="#">
+                    <i class="fas fa-fw fa-table"></i>
+                    <span>관리자</span></a>
+            </li> 
             <!-- Divider -->
             <hr class="sidebar-divider d-none d-md-block">
 
