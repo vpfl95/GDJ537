@@ -27,7 +27,7 @@
 
             <!-- Heading -->
  
-            <!-- Nav Item - Pages Collapse Menu -->
+            <!-- Nav Item - Board Collapse Menu -->
             <li class="nav-item">
                 <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseBoard"
                     aria-expanded="true" aria-controls="collapseBoard">
@@ -48,7 +48,7 @@
             <hr class="sidebar-divider">
 
 
-            <!-- Nav Item - Utilities Collapse Menu -->
+            <!-- Nav Item - Schedule Collapse Menu -->
             <li class="nav-item">
                 <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseSchedule"
                     aria-expanded="true" aria-controls="collapseSchedule">
@@ -68,7 +68,7 @@
             <!-- Divider -->
             <hr class="sidebar-divider">
 
-            <!-- Nav Item - Pages Collapse Menu -->
+            <!-- Nav Item - 보고서 Collapse Menu -->
             <li class="nav-item">
                 <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseReport"
                     aria-expanded="true" aria-controls="collapseReport">
@@ -83,10 +83,10 @@
                 </div>
 			</li>
 
-            
+
             <!-- Divider -->
             <hr class="sidebar-divider">
-            <!-- Nav Item - Charts -->
+            <!-- Nav Item - Messanger -->
             <li class="nav-item">
                 <a class="nav-link" href="#">
                     <i class="fas fa-fw fa-chart-area"></i>
@@ -102,7 +102,7 @@
 
             <!-- Divider -->
             <hr class="sidebar-divider">
-            
+            <!-- Nav Item - 관리자 -->
             <li class="nav-item">
                 <a class="nav-link" href="#">
                     <i class="fas fa-fw fa-table"></i>
