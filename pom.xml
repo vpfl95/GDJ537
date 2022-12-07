@@ -19,7 +19,11 @@
 	</properties>
 	<dependencies>
 		<!-- 회원관리  4조 -->
-		
+		<!-- https://mvnrepository.com/artifact/org.springframework.security/spring-security-taglibs -->
+		<dependency>
+		    <groupId>org.springframework.security</groupId>
+		    <artifactId>spring-security-taglibs</artifactId>
+		</dependency>
 		<!-- 게시판   2조 -->
 		
 		<!-- 예약     5조 -->
